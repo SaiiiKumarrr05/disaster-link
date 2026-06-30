@@ -138,4 +138,3 @@ Full request/response schemas are available via the auto-generated Swagger UI at
 
 ## License
 
-No license has been specified yet for this project.
