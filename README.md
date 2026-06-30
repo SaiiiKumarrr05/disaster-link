@@ -79,7 +79,7 @@ The API will be available at `http://localhost:8000`, with interactive Swagger d
 ```bash
 cd frontend
 npm install
-cp .env.example .env   # set VITE_API_BASE_URL if it differs from the 
+cp .env.example .env   # set VITE_API_BASE_URL if it differe 
 npm run dev
 ```
 
