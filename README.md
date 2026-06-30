@@ -79,7 +79,7 @@ The API will be available at `http://localhost:8000`, with interactive Swagger d
 ```bash
 cd frontend
 npm install
-cp .env.example .env   # set  
+cp .env.example .env     
 npm run dev
 ```
 
