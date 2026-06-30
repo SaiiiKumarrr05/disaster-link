@@ -136,5 +136,5 @@ Full request/response schemas are available via the auto-generated Swagger UI at
 - `disasterlink.db` is a local SQLite database used for development; point `database_url` at PostgreSQL/Supabase for production.
 - The assistant's guidance content is intentionally static and keyword-matched rather than AI-generated, so that safety-critical instructions are vetted rather than inferred.
 
-## Lice
+
 
