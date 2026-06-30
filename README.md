@@ -55,7 +55,7 @@ disaster-link/
 
 - Python 3.11+
 - Node.js 18+
-- PostgreSQL (optional for local dev — defaults to SQLite via `disasterlink.db` if you don't set `DATABASE_URL`)
+- PostgreSQL 
 
 ### Backend setup
 
