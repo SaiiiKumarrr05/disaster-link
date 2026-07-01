@@ -131,7 +131,7 @@ Full request/response schemas are available via the auto-generated Swagger UI at
 | `authority` | Everything above, plus publishing official alerts |
 | `admin` | Full access |
 
-## Notes
+## 
 
 
 
