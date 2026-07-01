@@ -130,8 +130,7 @@ Full request/response schemas are available via the auto-generated Swagger UI at
 | `rescue_team` | Everything above, plus the rescue queue, status updates, and queue stats |
 | `authority` | Everything above, plus publishing official alerts |
 | `admin` | Full access |
-
-## 
+ 
 
 
 
